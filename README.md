@@ -110,6 +110,7 @@ For metrics and QA, launch:
 streamlit run app/evaluation/dashboard.py
 ```
 Upload sample queries and see detailed results for faithfulness, similarity, and context precision.
+<img width="1456" height="607" alt="Screenshot (13)" src="https://github.com/user-attachments/assets/c342f17f-feba-4602-a547-b72ba023d0ef" />
 
 ***
 
